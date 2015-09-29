@@ -5,11 +5,11 @@ int main()
 {
 	using namespace std;
 	int stone;
-	cout << "Enter the weight in stone:";
+	cout << "石头的重量为:";
 	cin >> stone;
 	int pounds = stonetold(stone);
 	cout << stone << "stone=";
-	cout << pounds << "pounds" << endl;
+	cout << pounds << "英镑" << endl;
 	cin.get();
 	cin.get();
 	return 0;
