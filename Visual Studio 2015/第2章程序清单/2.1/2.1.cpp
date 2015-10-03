@@ -1,13 +1,13 @@
-//Ô´.cpp -- ÏÔÊ¾ÏûÏ¢
-#include<iostream>													//Ô¤´¦ÀíÖ¸Áî
+ï»¿//æº.cpp -- æ˜¾ç¤ºæ¶ˆæ¯
+#include<iostream>													//é¢„å¤„ç†æŒ‡ä»¤
 
-int main()																	//º¯ÊıÍ·
-{																				//º¯ÊıÌå¿ªÊ¼
+int main()																	//å‡½æ•°å¤´
+{																				//å‡½æ•°ä½“å¼€å§‹
 	using namespace std;											//make definitions visible
-	cout << "come up and c++ me some time.";		//Êä³öÏûÏ¢
-	cout << endl;														//»»ĞĞÊäÈë
-	cout << "Äã²»»áºó»ÚµÄ£¡" << endl;						//¸ü¶àµÄÏûÏ¢
+	cout << "come up and c++ me some time.";		//è¾“å‡ºæ¶ˆæ¯
+	cout << endl;														//æ¢è¡Œè¾“å…¥
+	cout << "ä½ ä¸ä¼šåæ‚”çš„ï¼" << endl;								//æ›´å¤šçš„æ¶ˆæ¯
 	cin.get();
 	cin.get();
-	return 0;																//·µ»Ø main()
-}																				//º¯ÊıÌå½áÊø
+	return 0;																//è¿”å› main()
+}																				//å‡½æ•°ä½“ç»“æŸ
