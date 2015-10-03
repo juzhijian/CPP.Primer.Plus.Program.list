@@ -1,23 +1,23 @@
-//Ô´.CPP -- ×Ô¶¨Òåº¯Êı
+ï»¿//æº.CPP -- è‡ªå®šä¹‰å‡½æ•°
 #include<iostream>
-void simon(int);			//º¯ÊıÔ­ĞÍsimon()
+void simon(int);			//å‡½æ•°åŸå‹simon()
 
 int main()
 {
 	using namespace std;
-	simon(3);											//Ê¹ÓÃº¯Êı
-	cout << "ÊäÈëÒ»¸öÕûÊı:";
+	simon(3);											//ä½¿ç”¨å‡½æ•°
+	cout << "è¾“å…¥ä¸€ä¸ªæ•´æ•°:";
 	int count;
 	cin >> count;
-	simon(count);								//°ÑCountµÄÖµ´øÈëµ½º¯ÊıÖĞ¼ÆËã
-	cout << "Íê³ÉÁË!" << endl;
+	simon(count);								//æŠŠCountçš„å€¼å¸¦å…¥åˆ°å‡½æ•°ä¸­è®¡ç®—
+	cout << "å®Œæˆäº†!" << endl;
 	cin.get();
 	cin.get();
 	return 0;
 }
 
-void simon(int n)									//¶¨Òåsimon()
+void simon(int n)									//å®šä¹‰simon()
 {
 	using namespace std;
-	cout << "Î÷ÃÉËµÃşÄãµÄ½ÅÖº" << n << "´Î." << endl;
-}															//voidº¯Êı²»ĞèÒª·µ»ØÖµ
+	cout << "è¥¿è’™è¯´æ‘¸ä½ çš„è„šè¶¾" << n << "æ¬¡." << endl;
+}															//voidå‡½æ•°ä¸éœ€è¦è¿”å›å€¼

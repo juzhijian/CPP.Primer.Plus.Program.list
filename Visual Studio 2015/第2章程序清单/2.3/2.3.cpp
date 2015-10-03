@@ -1,4 +1,4 @@
-//Ô´.cpp  -- ÊäÈëºÍÊä³ö
+ï»¿//æº.cpp  -- è¾“å…¥å’Œè¾“å‡º
 #include<iostream>
 int main()
 {
@@ -6,11 +6,11 @@ int main()
 
 	int carrots;
 
-	cout << "ÄãÓĞ¶àÉÙ¸öºúÂÜ²·?" << endl;
-	cin >> carrots;																	//C++ ÊäÈë
-	cout << "ÕâÀï»¹ÓĞ2¸ö.";
+	cout << "ä½ æœ‰å¤šå°‘ä¸ªèƒ¡èåœ?" << endl;
+	cin >> carrots;																	//C++ è¾“å…¥
+	cout << "è¿™é‡Œè¿˜æœ‰2ä¸ª.";
 	carrots = carrots + 2;														//the next line conatenates output
-	cout << "ÏÖÔÚÄãÓĞ " << carrots << "¸öºúÂÜ²·," << endl;
+	cout << "ç°åœ¨ä½ æœ‰ " << carrots << "ä¸ªèƒ¡èåœ," << endl;
 	cin.get();
 	cin.get();
 	return 0;

@@ -1,18 +1,18 @@
-//Ô´.cpp -- Ê³Æ·´¦Àí³ÌĞò
-//Êä³öÏÔÊ¾Ò»¸ö±äÁ¿
+ï»¿//æº.cpp -- é£Ÿå“å¤„ç†ç¨‹åº
+//è¾“å‡ºæ˜¾ç¤ºä¸€ä¸ªå˜é‡
 #include <iostream>
 int main()
 {
 	using namespace std;
-	int carrots;								//ÉùÃ÷Ò»¸öÕûĞÎ±äÁ¿
+	int carrots;								//å£°æ˜ä¸€ä¸ªæ•´å½¢å˜é‡
 
-	carrots = 25;								//¸ø±äÁ¿¸³Öµ
-	cout << "ÎÒÓĞ";
-	cout << carrots;						//ÏÔÊ¾±äÁ¿µÄÖµ
-	cout << "¸öºúÂÜ²·¡£";
+	carrots = 25;								//ç»™å˜é‡èµ‹å€¼
+	cout << "æˆ‘æœ‰";
+	cout << carrots;						//æ˜¾ç¤ºå˜é‡çš„å€¼
+	cout << "ä¸ªèƒ¡èåœã€‚";
 	cout << endl;
-	carrots = carrots - 1;					//ĞŞ¸Ä±äÁ¿
-	cout << "¸ÂÖ¨,¸ÂÖ¨.ÏÖÔÚÎÒÓĞ" << carrots << "¸öºúÂÜ²·." << endl;
+	carrots = carrots - 1;					//ä¿®æ”¹å˜é‡
+	cout << "å˜å±,å˜å±.ç°åœ¨æˆ‘æœ‰" << carrots << "ä¸ªèƒ¡èåœ." << endl;
 	cin.get();
 	cin.get();
 	return 0;

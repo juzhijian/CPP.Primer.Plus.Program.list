@@ -1,15 +1,15 @@
-//‘¥.cpp -- converts stone to pounds
+Ôªø//Ê∫ê.cpp -- converts stone to pounds
 #include<iostream>
 int stonetold(int);					//function prototype
 int main()
 {
 	using namespace std;
 	int stone;
-	cout << " ØÕ∑µƒ÷ÿ¡øŒ™:";
+	cout << "Áü≥Â§¥ÁöÑÈáçÈáè‰∏∫:";
 	cin >> stone;
 	int pounds = stonetold(stone);
 	cout << stone << "stone=";
-	cout << pounds << "”¢∞˜" << endl;
+	cout << pounds << "Ëã±Èïë" << endl;
 	cin.get();
 	cin.get();
 	return 0;

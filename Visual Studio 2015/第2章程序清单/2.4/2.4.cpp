@@ -1,4 +1,4 @@
-//‘¥.CPP -- using the sqrt() function
+Ôªø//Ê∫ê.CPP -- using the sqrt() function
 #include<iostream>
 #include<cmath>									//or math.h
 
@@ -7,13 +7,13 @@ int main()
 	using namespace std;
 
 	double area;
-	cout << "Ω¯»Îƒ„º“∂‡…Ÿ∆Ω∑Ω”¢≥ﬂµƒµÿ∑Ω:";
+	cout << "ËøõÂÖ•‰Ω†ÂÆ∂Â§öÂ∞ëÂπ≥ÊñπËã±Â∞∫ÁöÑÂú∞Êñπ:";
 	cin >> area;
 	double side;
 	side = sqrt(area);
-	cout << "’‚ «“ª∏ˆ±ﬂ≥§Œ™ " << side
-		<< "µƒ’˝∑Ω–Œ." << endl;
-	cout << "  ∂‡√¥√‘»À!" << endl;
+	cout << "ËøôÊòØ‰∏Ä‰∏™ËæπÈïø‰∏∫ " << side
+		<< "ÁöÑÊ≠£ÊñπÂΩ¢." << endl;
+	cout << "  Â§ö‰πàËø∑‰∫∫!" << endl;
 	cin.get();
 	cin.get();
 	return 0;
