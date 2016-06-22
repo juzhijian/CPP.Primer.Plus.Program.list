@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\第二章程序清单">
+      <UniqueIdentifier>{0ce2f3f3-c38d-41bb-ad7c-83566e1374f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第三章程序清单">
+      <UniqueIdentifier>{c19c6546-afec-4990-bbb5-f45b59ceaec8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\第四章程序清单">
+      <UniqueIdentifier>{862a0272-066a-4ee4-a421-fcb76f2a621c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\目录文件">
+      <UniqueIdentifier>{3398fbbc-cf07-426d-bd5f-e9767951607e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\目录文件">
+      <UniqueIdentifier>{f39801c6-3cbf-4262-bcd2-5a088ccd562b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AA2.1.cpp">
+      <Filter>源文件\第二章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="AB2.2.cpp">
+      <Filter>源文件\第二章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="AC2.3.cpp">
+      <Filter>源文件\第二章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="AD2.4.cpp">
+      <Filter>源文件\第二章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="AE2.5.cpp">
+      <Filter>源文件\第二章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BA3.1.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BB3.2.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BC3.3.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BD3.4.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BE3.5.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BF3.6.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BG3.7.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BH3.8.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BI3.9.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ3.10.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BK3.11.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BL3.12.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BM3.13.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="BN3.14.cpp">
+      <Filter>源文件\第三章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="Amain.cpp">
+      <Filter>源文件\目录文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bmain.cpp">
+      <Filter>源文件\目录文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CA4.1.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CB4.2.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CC4.3.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CD4.4.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CE4.5.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CF4.6.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CG4.7.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CH4.8.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CI4.9.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CJ4.10.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CK4.11.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CL4.12.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CM4.13.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CN4.14.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CO4.15.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CP4.16.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CQ4.17.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CR4.18.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CS4.19.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CT4.20.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CU4.21.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="one.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Amain.h">
+      <Filter>头文件\目录文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AF2.6.cpp">
+      <Filter>源文件\第二章程序清单</Filter>
+    </None>
+  </ItemGroup>
+</Project>
