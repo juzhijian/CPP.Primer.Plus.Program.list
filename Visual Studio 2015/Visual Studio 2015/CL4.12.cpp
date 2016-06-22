@@ -1,4 +1,5 @@
 // assgn_st.cpp -- assigning structures
+
 #include <iostream>
 struct inflatable
 {
@@ -12,7 +13,7 @@ int main()
 	inflatable bouquet =
 	{
 		"sunflowers",
-		0.20f,//如果不指定数据类型，那么小数常量会被认为是 double 类型的,所以此处要加上f
+		0.20f,//如果不指定数据类型，那么小数常量会被认为是double类型的所以需要加f
 		12.49
 	};
 	inflatable choice;
