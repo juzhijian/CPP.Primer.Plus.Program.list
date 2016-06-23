@@ -1,21 +1,24 @@
 //源.cpp -- converts stone to pounds
-#include<iostream>
-int stonetold(int);					//function prototype
-int main()
+#include "one.h"
+#include "Amain.h"
+
+int AF_stonetold(int);					//function prototype
+
+void AF()
 {
-	using namespace std;
-	int stone;
+	int AF_stone;
 	cout << "石头的重量为:";
-	cin >> stone;
-	int pounds = stonetold(stone);
-	cout << stone << "stone=";
-	cout << pounds << "英镑" << endl;
+	cin >> AF_stone;
+	int AF_pounds = AF_stonetold(AF_stone);
+	cout << AF_stone << "stone=";
+	cout << AF_pounds << "英镑" << endl;
 	cin.get();
 	cin.get();
-	return 0;
+	system("Cls");
+	Amain();
 }
 
-int stonetold(int sts)
+int AF_stonetold(int AF_sts)
 {
-	return 14 * sts;
+	return 14 * AF_sts;
 }

@@ -1,6 +1,6 @@
 // pointer.cpp -- our first pointer variable
 #include <iostream>
-int main()
+int CO()
 {
 	using namespace std;
 	int updates = 6;        // declare a variable

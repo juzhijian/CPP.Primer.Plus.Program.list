@@ -6,7 +6,7 @@ struct inflatable
 	float volume;
 	double price;
 };
-int main()
+int CM()
 {
 	using namespace std;
 	inflatable guests[2] =          // initializing an array of structs

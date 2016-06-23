@@ -159,6 +159,9 @@
     <ClCompile Include="CU4.21.cpp">
       <Filter>源文件\第四章程序清单</Filter>
     </ClCompile>
+    <ClCompile Include="Cmain.cpp">
+      <Filter>源文件\目录文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="one.h">
@@ -168,6 +171,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Amain.h">
+      <Filter>头文件\目录文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bmain.h">
+      <Filter>头文件\目录文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cmain.h">
       <Filter>头文件\目录文件</Filter>
     </ClInclude>
   </ItemGroup>

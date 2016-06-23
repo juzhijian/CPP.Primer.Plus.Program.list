@@ -1,7 +1,7 @@
 // strtype2.cpp ? assigning, adding, and appending
 #include <iostream>
 #include <string>               // make string class available
-int main()
+int CH()
 {
 	using namespace std;
 	string s1 = "penguin";

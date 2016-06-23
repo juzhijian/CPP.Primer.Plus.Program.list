@@ -1,6 +1,6 @@
 //3.12.CPP -- uses % opreator convert lbs to stone
 #include <iostream>
-int main()
+int BL()
 {
 	using namespace std;
 	const int Lbs_per_stn = 14;

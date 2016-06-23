@@ -1,6 +1,6 @@
 // address.cpp -- using the & operator to find addresses
 #include <iostream>
-int main()
+int CN()
 {
 	using namespace std;
 	int donuts = 6;

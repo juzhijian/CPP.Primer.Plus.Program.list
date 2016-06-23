@@ -7,7 +7,7 @@ void main()
 	while (main_i == 1)
 	{
 		cout << "请选择要进入的章节：\n";
-		cout << "1、第二章程序清单		2、第三章程序清单" << endl;
+		cout << "1、第二章程序清单		2、第三章程序清单		3、第四章程序清单" << endl;
 		int main_a;
 		cin >> main_a;
 		switch (main_a)

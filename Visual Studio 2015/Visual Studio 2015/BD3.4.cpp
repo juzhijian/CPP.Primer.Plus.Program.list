@@ -1,7 +1,7 @@
 //3.4.CPP -- dispaly values in hex and octal
 #include <iostream>
 using namespace std;
-int main()
+int BD()
 {
 	using namespace std;
 	int chest = 42;

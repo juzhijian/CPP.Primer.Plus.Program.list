@@ -2,7 +2,7 @@
 #include <iostream>
 #define ZERO 0							//makes ZERO symbol for 0 value
 #include <climits>					//defines INT_MAX as largest int value
-int main()
+int BB()
 {
 	using namespace std;
 	short sam = SHRT_MAX;		//lnitialize a variable to max value

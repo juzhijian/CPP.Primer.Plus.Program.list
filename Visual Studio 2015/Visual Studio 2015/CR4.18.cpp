@@ -1,6 +1,6 @@
 // arraynew.cpp -- using the new operator for arrays
 #include <iostream>
-int main()
+int CR()
 {
 	using namespace std;
 	double * p3 = new double[3]; // space for 3 doubles

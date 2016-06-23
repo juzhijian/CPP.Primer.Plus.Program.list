@@ -1,6 +1,6 @@
 //3.13.CPP -- type changes on initialization
 #include <iostream>
-int main()
+int BM()
 {
 	using namespace std;
 	cout.setf(ios_base::fixed, ios_base::floatfield);

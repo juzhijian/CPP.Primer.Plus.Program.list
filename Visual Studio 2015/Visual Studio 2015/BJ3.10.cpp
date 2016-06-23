@@ -1,6 +1,6 @@
 // arith.cpp -- some C++ arithmetic
 #include <iostream>
-int main()
+int BJ()
 {
 	using namespace std;
 	float hats, heads;

@@ -1,20 +1,20 @@
 //源.CPP -- using the sqrt() function
-#include<iostream>
-#include<cmath>									//or math.h
+#include "one.h"
+#include "Amain.h"									//or math.h
 
-int main()
+void AD()
 {
-	using namespace std;
 
-	double area;
+	double AD_area;
 	cout << "进入你家多少平方英尺的地方:";
-	cin >> area;
-	double side;
-	side = sqrt(area);
-	cout << "这是一个边长为 " << side
+	cin >> AD_area;
+	double AD_side;
+	AD_side = sqrt(AD_area);
+	cout << "这是一个边长为 " << AD_side
 		<< "的正方形." << endl;
 	cout << "  多么迷人!" << endl;
 	cin.get();
 	cin.get();
-	return 0;
+	system("Cls");
+	Amain();
 }

@@ -1,6 +1,6 @@
 // init_ptr.cpp -- initialize a pointer
 #include <iostream>
-int main()
+int CP()
 {
 	using namespace std;
 	int higgens = 5;

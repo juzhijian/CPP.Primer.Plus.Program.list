@@ -1,6 +1,6 @@
 //3.14.CPP -- forcing type changes
 #include <iostream>
-int main()
+int BN()
 {
 	using namespace std;
 	int auks, bats, coots;

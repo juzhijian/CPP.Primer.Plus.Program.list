@@ -1,6 +1,6 @@
 //3.9.CPP - precision problems with float
 #include <iostream>
-int main()
+int BI()
 {
 	using namespace std;
 	float a = 2.34E+22f;

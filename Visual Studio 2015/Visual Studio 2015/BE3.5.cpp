@@ -1,6 +1,6 @@
 //3.5.CPP -- the char type
 #include <iostream>
-int main()
+int BE()
 {
 	using namespace std;
 	char ch;						//declare a char variable

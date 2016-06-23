@@ -1,6 +1,6 @@
 //3.3.CPP -- shows hex and octal liteals
 #include <iostream>
-int main()
+int BC()
 {
 	using namespace std;
 	int chest = 42;				//decimal integer literal

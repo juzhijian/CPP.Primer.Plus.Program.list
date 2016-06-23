@@ -7,7 +7,7 @@ struct inflatable
 	float volume;
 	double price;
 };
-int main()
+int CL()
 {
 	using namespace std;
 	inflatable bouquet =

@@ -1,7 +1,7 @@
 // ptrstr.cpp -- using pointers to strings
 #include <iostream>
 #include <cstring>              // declare strlen(), strcpy()
-int main()
+int CT()
 {
 	using namespace std;
 	char animal[20] = "bear";   // animal holds bear

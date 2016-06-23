@@ -1,6 +1,6 @@
 //bondini.CPP -- using escape sequences
 #include <iostream>
-int main()
+int BG()
 {
 	using namespace std;
 	cout << "\aOperation \"HyperHyper\" is now activated!\n";

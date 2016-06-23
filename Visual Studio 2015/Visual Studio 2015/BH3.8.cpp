@@ -1,6 +1,6 @@
 //3.8.CPP -- floating-point tyes
 #include <iostream>
-int main()
+int BH()
 {
 	using namespace std;
 	cout.setf(ios_base::fixed, ios_base::floatfield);//fixed-point

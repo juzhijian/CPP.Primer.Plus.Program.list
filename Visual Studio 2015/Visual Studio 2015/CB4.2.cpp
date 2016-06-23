@@ -1,7 +1,7 @@
 // strings.cpp -- storing strings in an array
 #include <iostream>
 #include <cstring>  // for the strlen() function
-int main()
+int CB()
 {
 	using namespace std;
 	const int Size = 15;

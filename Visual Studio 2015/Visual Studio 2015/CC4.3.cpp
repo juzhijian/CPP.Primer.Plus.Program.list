@@ -1,6 +1,6 @@
 // instr1.cpp -- reading more than one string
 #include <iostream>
-int main()
+int CC()
 {
 	using namespace std;
 	const int ArSize = 20;

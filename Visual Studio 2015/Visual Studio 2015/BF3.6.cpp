@@ -1,6 +1,6 @@
 //3.6.CPP -- the char type and int type contrasted
 #include<iostream>
-int main()
+int BF()
 {
 	using namespace std;	//assign ASCII code for M to ch
 	char ch = 'M';	//store same code in an int

@@ -1,7 +1,7 @@
 // strtype1.cpp -- using the C++ string class
 #include <iostream>
 #include <string>               // make string class available
-int main()
+int CG()
 {
 	using namespace std;
 	char charr1[20];            // create an empty array

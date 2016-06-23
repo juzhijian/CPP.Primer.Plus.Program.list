@@ -180,6 +180,7 @@
     <ClCompile Include="CK4.11.cpp" />
     <ClCompile Include="CL4.12.cpp" />
     <ClCompile Include="CM4.13.cpp" />
+    <ClCompile Include="Cmain.cpp" />
     <ClCompile Include="CN4.14.cpp" />
     <ClCompile Include="CO4.15.cpp" />
     <ClCompile Include="CP4.16.cpp" />
@@ -192,6 +193,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Amain.h" />
+    <ClInclude Include="Bmain.h" />
+    <ClInclude Include="Cmain.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="one.h" />
   </ItemGroup>

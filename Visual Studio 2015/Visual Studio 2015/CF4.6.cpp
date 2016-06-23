@@ -1,6 +1,6 @@
 // numstr.cpp -- following number input with line input
 #include <iostream>
-int main()
+int CF()
 {
 	using namespace std;
 	cout << "What year was your house built?\n";

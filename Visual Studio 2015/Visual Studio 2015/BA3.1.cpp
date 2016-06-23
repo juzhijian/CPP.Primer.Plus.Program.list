@@ -1,7 +1,8 @@
 //3.1.cpp -- some integer limits
 #include <iostream>
 #include <climits>				//use limits.h for older systems
-int main()
+
+int BA()
 {
 	using namespace std;
 	int n_int = INT_MAX;			//initialize n_int to max int value

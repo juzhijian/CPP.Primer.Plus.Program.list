@@ -1,6 +1,6 @@
 // arrayone.cpp -- small arrays of integers
 #include <iostream>
-int main()
+int CA()
 {
 	using namespace std;
 	int yams[3];    // creates array with three elements

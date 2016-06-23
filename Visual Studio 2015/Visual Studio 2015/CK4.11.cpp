@@ -7,7 +7,7 @@ struct inflatable   // structure declaration
 	double price;
 };
 
-int main()
+int CK()
 {
 	using namespace std;
 	inflatable guest =

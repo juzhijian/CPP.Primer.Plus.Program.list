@@ -4,7 +4,7 @@
 #include <cstring>              // C-style string library
 //#pragma warning(disable:4996)
 
-int main()
+int CI()
 {
 	using namespace std;
 	char charr1[20];

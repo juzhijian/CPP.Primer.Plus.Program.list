@@ -1,6 +1,6 @@
 // instr3.cpp -- reading more than one word with get() & get()
 #include <iostream>
-int main()
+int CE()
 {
 	using namespace std;
 	const int ArSize = 20;
