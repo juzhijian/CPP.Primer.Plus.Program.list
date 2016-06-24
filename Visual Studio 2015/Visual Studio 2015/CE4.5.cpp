@@ -1,4 +1,4 @@
-// instr3.cpp -- reading more than one word with get() & get()
+﻿// instr3.cpp -- reading more than one word with get() & get()
 #include <iostream>
 int CE()
 {

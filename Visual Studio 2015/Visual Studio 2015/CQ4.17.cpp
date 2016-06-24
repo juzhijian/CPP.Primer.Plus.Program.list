@@ -1,4 +1,4 @@
-// use_new.cpp -- using the new operator
+﻿// use_new.cpp -- using the new operator
 #include <iostream>
 int CQ()
 {

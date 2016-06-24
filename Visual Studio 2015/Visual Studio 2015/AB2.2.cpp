@@ -1,4 +1,4 @@
-//源.cpp -- 食品处理程序
+﻿//源.cpp -- 食品处理程序
 //输出显示一个变量
 #include "one.h"
 #include "Amain.h"

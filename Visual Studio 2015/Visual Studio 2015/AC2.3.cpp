@@ -1,4 +1,4 @@
-//源.cpp  -- 输入和输出
+﻿//源.cpp  -- 输入和输出
 #include "one.h"
 #include "Amain.h"
 

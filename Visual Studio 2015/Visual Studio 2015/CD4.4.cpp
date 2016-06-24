@@ -1,4 +1,4 @@
-// instr2.cpp -- reading more than one word with getline
+﻿// instr2.cpp -- reading more than one word with getline
 #include <iostream>
 int CD()
 {

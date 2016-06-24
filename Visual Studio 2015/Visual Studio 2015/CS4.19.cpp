@@ -1,4 +1,4 @@
-// addpntrs.cpp -- pointer addition
+﻿// addpntrs.cpp -- pointer addition
 #include <iostream>
 int CS()
 {

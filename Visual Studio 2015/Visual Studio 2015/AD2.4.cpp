@@ -1,4 +1,4 @@
-//源.CPP -- using the sqrt() function
+﻿//源.CPP -- using the sqrt() function
 #include "one.h"
 #include "Amain.h"									//or math.h
 

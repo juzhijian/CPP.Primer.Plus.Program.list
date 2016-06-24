@@ -1,7 +1,7 @@
-#include <iostream>
+﻿#include <iostream>
 #include <string>
 
-int CU()
+void CU()
 {
 
 }

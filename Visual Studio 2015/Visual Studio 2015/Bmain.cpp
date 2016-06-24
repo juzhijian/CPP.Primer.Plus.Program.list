@@ -1,4 +1,4 @@
-#include "one.h"
+﻿#include "one.h"
 #include "Bmain.h"
 
 void Bmain()

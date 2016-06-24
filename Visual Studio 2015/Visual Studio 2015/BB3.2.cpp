@@ -1,4 +1,4 @@
-//3.2.cpp -- exceeding some integer limits
+﻿//3.2.cpp -- exceeding some integer limits
 #include <iostream>
 #define ZERO 0							//makes ZERO symbol for 0 value
 #include <climits>					//defines INT_MAX as largest int value

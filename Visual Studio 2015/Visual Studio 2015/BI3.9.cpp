@@ -1,4 +1,4 @@
-//3.9.CPP - precision problems with float
+﻿//3.9.CPP - precision problems with float
 #include <iostream>
 int BI()
 {

@@ -1,4 +1,4 @@
-// strtype2.cpp ? assigning, adding, and appending
+﻿// strtype2.cpp ? assigning, adding, and appending
 #include <iostream>
 #include <string>               // make string class available
 int CH()

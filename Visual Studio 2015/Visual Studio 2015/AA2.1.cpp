@@ -1,4 +1,4 @@
-//源.cpp -- 显示消息
+﻿//源.cpp -- 显示消息
 #include "one.h"
 #include "Amain.h"													//预处理指令
 

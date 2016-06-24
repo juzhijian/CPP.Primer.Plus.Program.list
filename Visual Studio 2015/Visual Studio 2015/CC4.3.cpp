@@ -1,4 +1,4 @@
-// instr1.cpp -- reading more than one string
+﻿// instr1.cpp -- reading more than one string
 #include <iostream>
 int CC()
 {

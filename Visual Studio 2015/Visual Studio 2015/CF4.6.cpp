@@ -1,4 +1,4 @@
-// numstr.cpp -- following number input with line input
+﻿// numstr.cpp -- following number input with line input
 #include <iostream>
 int CF()
 {

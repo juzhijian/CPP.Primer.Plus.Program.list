@@ -1,4 +1,4 @@
-// pointer.cpp -- our first pointer variable
+﻿// pointer.cpp -- our first pointer variable
 #include <iostream>
 int CO()
 {

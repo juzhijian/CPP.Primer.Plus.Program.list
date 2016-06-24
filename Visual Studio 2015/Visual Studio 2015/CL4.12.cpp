@@ -1,4 +1,4 @@
-// assgn_st.cpp -- assigning structures
+﻿// assgn_st.cpp -- assigning structures
 
 #include <iostream>
 struct inflatable

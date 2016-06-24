@@ -1,4 +1,4 @@
-// strtype1.cpp -- using the C++ string class
+﻿// strtype1.cpp -- using the C++ string class
 #include <iostream>
 #include <string>               // make string class available
 int CG()

@@ -1,4 +1,4 @@
-// strtype3.cpp -- more string class features
+﻿// strtype3.cpp -- more string class features
 #include <iostream>
 #include <string>               // make string class available
 #include <cstring>              // C-style string library

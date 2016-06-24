@@ -1,4 +1,4 @@
-// strings.cpp -- storing strings in an array
+﻿// strings.cpp -- storing strings in an array
 #include <iostream>
 #include <cstring>  // for the strlen() function
 int CB()

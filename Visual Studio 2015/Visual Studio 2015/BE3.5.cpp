@@ -1,4 +1,4 @@
-//3.5.CPP -- the char type
+﻿//3.5.CPP -- the char type
 #include <iostream>
 int BE()
 {

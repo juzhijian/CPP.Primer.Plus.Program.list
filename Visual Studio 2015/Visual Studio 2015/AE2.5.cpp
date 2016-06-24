@@ -1,4 +1,4 @@
-//源.CPP -- 自定义函数
+﻿//源.CPP -- 自定义函数
 #include "one.h"
 #include "Amain.h"
 

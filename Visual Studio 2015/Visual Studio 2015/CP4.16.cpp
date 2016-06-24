@@ -1,4 +1,4 @@
-// init_ptr.cpp -- initialize a pointer
+﻿// init_ptr.cpp -- initialize a pointer
 #include <iostream>
 int CP()
 {

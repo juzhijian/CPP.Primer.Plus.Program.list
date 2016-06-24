@@ -1,4 +1,4 @@
-//源.cpp -- converts stone to pounds
+﻿//源.cpp -- converts stone to pounds
 #include "one.h"
 #include "Amain.h"
 

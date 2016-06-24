@@ -1,4 +1,4 @@
-// strtype4.cpp -- line input
+﻿// strtype4.cpp -- line input
 #include <iostream>
 #include <string>               // make string class available
 #include <cstring>              // C-style string library

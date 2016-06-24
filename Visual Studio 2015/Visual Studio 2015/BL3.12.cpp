@@ -1,4 +1,4 @@
-//3.12.CPP -- uses % opreator convert lbs to stone
+﻿//3.12.CPP -- uses % opreator convert lbs to stone
 #include <iostream>
 int BL()
 {

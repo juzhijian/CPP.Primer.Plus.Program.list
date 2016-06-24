@@ -1,4 +1,4 @@
-// arrstruc.cpp -- an array of structures
+﻿// arrstruc.cpp -- an array of structures
 #include <iostream>
 struct inflatable
 {
