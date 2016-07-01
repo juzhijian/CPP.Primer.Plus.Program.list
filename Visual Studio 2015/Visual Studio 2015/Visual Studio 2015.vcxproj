@@ -189,6 +189,9 @@
     <ClCompile Include="CS4.19.cpp" />
     <ClCompile Include="CT4.20.cpp" />
     <ClCompile Include="CU4.21.cpp" />
+    <ClCompile Include="CV4.22.cpp" />
+    <ClCompile Include="CW4.23.cpp" />
+    <ClCompile Include="CX2.24.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

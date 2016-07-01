@@ -19,12 +19,23 @@ void Cmain()
 			//AA();
 			Cmain_i = 0;
 			break;
+		case 20:
+			system("Cls");
+			CT();
+			Cmain_i = 0;
+			break;
+		case 24:
+			system("Cls");
+			CX();
+			Cmain_i = 0;
+			break;
 		case 8:
 			system("Cls");
 			main();
 			Cmain_i = 0;
 			break;
 		default:cout << "你输入的序号没有对应的结果，请重新输入。" << endl;
+			system("Cls");
 			break;
 		}
 	}

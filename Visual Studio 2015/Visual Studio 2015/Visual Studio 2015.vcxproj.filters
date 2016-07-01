@@ -162,6 +162,15 @@
     <ClCompile Include="Cmain.cpp">
       <Filter>源文件\目录文件</Filter>
     </ClCompile>
+    <ClCompile Include="CV4.22.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CW4.23.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="CX2.24.cpp">
+      <Filter>源文件\第四章程序清单</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="one.h">

@@ -14,4 +14,12 @@ extern void CC();
 extern void CD();
 extern void CE();
 extern void CF();
+extern void CG();
+extern void CH();
+extern void CI();
+extern void CT();
+extern void CU();
+extern void CV();
+extern void CW();
+extern void CX();
 // TODO:  
