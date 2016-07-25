@@ -168,7 +168,7 @@
     <ClCompile Include="CW4.23.cpp">
       <Filter>源文件\第四章程序清单</Filter>
     </ClCompile>
-    <ClCompile Include="CX2.24.cpp">
+    <ClCompile Include="CX4.24.cpp">
       <Filter>源文件\第四章程序清单</Filter>
     </ClCompile>
   </ItemGroup>
