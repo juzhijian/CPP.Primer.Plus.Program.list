@@ -27,6 +27,11 @@ void main()
 			Cmain();
 			main_i = 0;
 			break;
+		case 4:
+			system("Cls");
+			Dmain();
+			main_i = 0;
+			break;
 		default:cout << "你输入的序号没有对应的结果，请重新输入。" << endl;
 			system("Cls");
 			break;

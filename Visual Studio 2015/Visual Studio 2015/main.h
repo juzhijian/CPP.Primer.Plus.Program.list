@@ -9,3 +9,4 @@
 extern void Amain();
 extern void Bmain();
 extern void Cmain();
+extern void Dmain();

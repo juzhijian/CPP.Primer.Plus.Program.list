@@ -28,6 +28,9 @@
     <Filter Include="头文件\目录文件">
       <UniqueIdentifier>{f39801c6-3cbf-4262-bcd2-5a088ccd562b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\第五章程序清单">
+      <UniqueIdentifier>{3a18c682-52cb-4cca-bc65-4ee77a97d816}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -171,6 +174,15 @@
     <ClCompile Include="CX4.24.cpp">
       <Filter>源文件\第四章程序清单</Filter>
     </ClCompile>
+    <ClCompile Include="DA5.1.cpp">
+      <Filter>源文件\第五章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="DB5.2.cpp">
+      <Filter>源文件\第五章程序清单</Filter>
+    </ClCompile>
+    <ClCompile Include="Dmain.cpp">
+      <Filter>源文件\目录文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="one.h">
@@ -186,6 +198,9 @@
       <Filter>头文件\目录文件</Filter>
     </ClInclude>
     <ClInclude Include="Cmain.h">
+      <Filter>头文件\目录文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dmain.h">
       <Filter>头文件\目录文件</Filter>
     </ClInclude>
   </ItemGroup>
