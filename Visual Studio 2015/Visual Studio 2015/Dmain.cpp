@@ -21,7 +21,7 @@ void Dmain()
 			break;
 		case 2:
 			system("Cls");
-			DB();
+			DC();
 			Dmain_i = 0;
 			break;
 		case 8:

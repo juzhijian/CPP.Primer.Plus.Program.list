@@ -10,3 +10,4 @@
 extern void Dmain();
 extern void DA();
 extern void DB();
+extern void DC();

@@ -194,6 +194,7 @@
     <ClCompile Include="CX4.24.cpp" />
     <ClCompile Include="DA5.1.cpp" />
     <ClCompile Include="DB5.2.cpp" />
+    <ClCompile Include="DC5.3.cpp" />
     <ClCompile Include="Dmain.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

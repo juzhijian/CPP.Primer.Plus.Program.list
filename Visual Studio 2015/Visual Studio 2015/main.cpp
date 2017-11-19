@@ -8,6 +8,7 @@ void main()
 	{
 		cout << "请选择要进入的章节：\n";
 		cout << "1、第二章程序清单		2、第三章程序清单		3、第四章程序清单" << endl;
+		cout << "4、第五章程序清单		5、第六章程序清单		6、第七章程序清单" << endl;
 		int main_a;
 		cin >> main_a;
 		switch (main_a)
@@ -28,6 +29,21 @@ void main()
 			main_i = 0;
 			break;
 		case 4:
+			system("Cls");
+			Dmain();
+			main_i = 0;
+			break;
+		case 5:
+			system("Cls");
+			Dmain();
+			main_i = 0;
+			break;
+		case 6:
+			system("Cls");
+			Dmain();
+			main_i = 0;
+			break;
+		case 7:
 			system("Cls");
 			Dmain();
 			main_i = 0;

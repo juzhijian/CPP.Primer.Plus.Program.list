@@ -183,6 +183,9 @@
     <ClCompile Include="Dmain.cpp">
       <Filter>源文件\目录文件</Filter>
     </ClCompile>
+    <ClCompile Include="DC5.3.cpp">
+      <Filter>源文件\第五章程序清单</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="one.h">
